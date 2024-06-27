@@ -1,4 +1,5 @@
 input,output
+ファームウェアインベントリのURIは？,/redfish/v1/UpdateService/FirmwareInventory
 GPUセンサーコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Oem/Dell/DellGPUSensors
 物理ディスクコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Storage/Drives/Oem/Dell/DellDrives
 PSUコレクションのURIは？,/redfish/v1/Chassis/{ComputerSystemId}/Power/Oem/Dell/DellPowerSupply
